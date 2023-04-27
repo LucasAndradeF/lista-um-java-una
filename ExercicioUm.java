@@ -1,21 +1,22 @@
+// Escreva um algoritmo que leia dois números informados pelo usuário a partir do teclado e que apresente o resultado da média aritmética dos dois números informados.
 import java.util.Scanner;
 
 public class ExercicioUm {
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        double num1, num2, mediaAritmetica;
+        double numeroUm, numeroDois, mediaAritmetica;
 
         String titulo = "Calculadora de Média Aritmética";
         System.out.println(titulo);
         
         System.out.println("Informe o primeiro número: ");
-        num1 = sc.nextInt();
+        numeroUm = sc.nextInt();
 
         System.out.println("Informe o segundo número: ");
-        num2 = sc.nextInt();
+        numeroDois = sc.nextInt();
         
-        mediaAritmetica = (num1 + num2) / 2; 
+        mediaAritmetica = (numeroUm + numeroDois) / 2; 
 
         System.out.println("A média aritmética é: " + mediaAritmetica);
         
