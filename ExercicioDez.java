@@ -1,3 +1,5 @@
+// Escreva um algoritmo que, dados três valores, calcule e imprima as médias aritmética, harmônica e geométrica destes valores.
+
 import java.util.Scanner;
 
 public class ExercicioDez {
