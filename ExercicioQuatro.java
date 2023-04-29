@@ -1,3 +1,6 @@
+// Escreva um algoritmo para calcular os juros compostos de uma aplicação financeira. O algoritmo deve ler o valor do capital a ser aplicado, o prazo de aplicação em meses, a taxa de juros mensal e apresentar na tela o montante a ser recebido.
+// OBS: M = C × (1 + i) n , em que M é o montante a ser recebido, C é o capital aplicado, i é a taxa de juros e n é o prazo da aplicação.
+
 import java.util.Scanner;
 
 public class ExercicioQuatro {
