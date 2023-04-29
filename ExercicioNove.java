@@ -1,3 +1,5 @@
+// Escreva um algoritmo que receba um número inteiro de segundos a partir do teclado e imprima na tela a quantidade correspondente em horas, minutos e segundos.
+
 import java.util.Scanner;
 
 public class ExercicioNove {
