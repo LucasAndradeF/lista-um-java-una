@@ -1,3 +1,6 @@
+// Em um estacionamento há carros e motos. 
+// Escreva um algoritmo que solicite ao usuário o total de veículos e o total de rodas. O algoritmo deve determinar quantos carros e quantas motos há no estacionamento. O resultado deve ser apresentado na tela para o usuário.
+
 import java.util.Scanner;
 
 public class ExercicioOito {
