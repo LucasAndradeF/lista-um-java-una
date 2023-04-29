@@ -1,3 +1,5 @@
+// Escreva um algoritmo que leia o salário fixo de um vendedor, o valor total das vendas que ele realizou no mês e o percentual que ele ganha sobre o total das vendas mensais. O algoritmo deve calcular o salário total do vendedor e apresentá-lo na tela.
+
 import java.util.Scanner;
 
 public class ExercicioSete {
